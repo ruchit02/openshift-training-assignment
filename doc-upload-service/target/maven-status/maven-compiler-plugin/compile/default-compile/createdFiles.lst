@@ -1,0 +1,13 @@
+com\topnotch\demo\repositories\EmployeeDocumentsRepository.class
+com\topnotch\demo\dtos\DocUploadResponse.class
+com\topnotch\demo\controllers\SampleController.class
+com\topnotch\demo\repositories\EmployeeDetailsRepository.class
+com\topnotch\demo\services\TNPhotoDetailsService.class
+com\topnotch\demo\consumers\DocumentConsumer.class
+com\topnotch\demo\dtos\EmployeeDetailsDTO.class
+com\topnotch\demo\models\EmployeeDetails.class
+com\topnotch\demo\models\PhotographerDetails.class
+com\topnotch\demo\PhotographyServiceAApplication.class
+com\topnotch\demo\models\PhotoDetails.class
+com\topnotch\demo\models\EmployeeDocuments.class
+com\topnotch\demo\models\PhotoAvailableSizesDetails.class

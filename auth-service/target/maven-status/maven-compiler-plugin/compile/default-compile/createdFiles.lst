@@ -1,0 +1,16 @@
+com\topnotch\demo\repositories\AuthorityRepository.class
+com\topnotch\demo\services\SecurityUser.class
+com\topnotch\demo\models\Authority.class
+com\topnotch\demo\PhotographyJwtServiceApplication.class
+com\topnotch\demo\models\AuthorityKey.class
+com\topnotch\demo\dtos\EmployeeDetailsDTO.class
+com\topnotch\demo\services\TNUserDetailsService.class
+com\topnotch\demo\security\SecurityConfig.class
+com\topnotch\demo\dtos\SignUpForm.class
+com\topnotch\demo\repositories\UserRepository.class
+com\topnotch\demo\dtos\LoginForm.class
+com\topnotch\demo\dtos\PhotographerDTO.class
+com\topnotch\demo\controllers\AuthenticationController.class
+com\topnotch\demo\services\RegisterNewUser.class
+com\topnotch\demo\models\DBUser.class
+com\topnotch\demo\utils\JWTUtil.class
