@@ -14,6 +14,6 @@
        3. Expose ports **5672** and **15672**
 2. ## Output
     1. If you see the sign-up page at the following link then you have successfully setup all containers
-        1. http://<your-ip-address>:8081/myapp/gateway/endpoint1
+        1. http://your-ip-address:8081/myapp/gateway/endpoint1
 4. ## Tip
     1. All these 5 containers need to be on the same network
